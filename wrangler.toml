@@ -3,8 +3,8 @@ main = "worker.js"
 compatibility_date = "2025-06-04"
 
 [[kv_namespaces]]
-binding = "KV"
-id = "你新建的KV命名空间ID"
+binding = "workbuddy-trae-checkin_kv"
+id = "09d96db22f5b43f8871cead8caf2157f"
 
 [triggers]
 crons = ["10 0 * * *"]

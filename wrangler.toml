@@ -3,7 +3,7 @@ main = "worker.js"
 compatibility_date = "2025-06-04"
 
 [[kv_namespaces]]
-binding = "workbuddy-trae-checkin_kv"
+binding = "kv"
 id = "09d96db22f5b43f8871cead8caf2157f"
 
 [triggers]
